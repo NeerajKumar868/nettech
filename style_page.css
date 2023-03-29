@@ -1,0 +1,50 @@
+.nettech-call{
+    position: relative;
+    left: -22%;
+}
+.nettech-mail{
+    position: relative;
+    left: -41%;
+}
+.nettech-location{
+    position: relative;
+    left: -12%;
+}
+.nettech-call-icon{
+    position: absolute;
+    font-size: 35px;
+    left: 62%;
+    top: 25%;
+    color: red;
+}
+
+
+.nettech-mail-icon{
+    position: absolute;
+    font-size: 40px;
+    left: 60%;
+    top: 30%;
+    color: red;
+}
+.nettech-location-icon{
+    position: absolute;
+    font-size: 35px;
+    color: red;
+    left: 49%;
+    top: 27%;
+}
+.doller-sign{
+    position: absolute;
+    top: 39%;
+    left: 32%;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+   
+    
+}
